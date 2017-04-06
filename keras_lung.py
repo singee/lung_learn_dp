@@ -194,3 +194,4 @@ if __name__ == '__main__':
     if conf['save_weights'] == 1:
         model.save_weights('mdl.h5')
     create_submission(model)
+#Jianneng's editing
